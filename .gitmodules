@@ -1,0 +1,3 @@
+[submodule "Lib/python"]
+	path = Lib/python
+	url = https://github.com/fahrulputra40/Python-TCP-Connection.git
